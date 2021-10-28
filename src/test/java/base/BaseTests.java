@@ -33,7 +33,7 @@ public class BaseTests {
     //private EventFiringWebDriver driver;
     protected HomePage homePage;
     String username = "arvindsingh.cs";
-    String accesskey = "JFiIzgu1oGcPu57yLmv6jvvJ2PRa8sgSTUVRfkGFKVZv4wqk7p";
+    String accesskey = "xxxxxxx";
     private RemoteWebDriver driver = null;
     String gridURL = "@hub.lambdatest.com/wd/hub";
 
